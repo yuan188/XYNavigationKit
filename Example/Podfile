@@ -1,0 +1,7 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'XYNavigationBar_Example' do
+  pod 'XYNavigationBar', :path => '../'
+end

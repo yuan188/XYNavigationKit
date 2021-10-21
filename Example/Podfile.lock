@@ -1,0 +1,16 @@
+PODS:
+  - XYNavigationBar (0.1.0)
+
+DEPENDENCIES:
+  - XYNavigationBar (from `../`)
+
+EXTERNAL SOURCES:
+  XYNavigationBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XYNavigationBar: a02959f855776b6c4b479feae018b9865ec7ed46
+
+PODFILE CHECKSUM: 8654e1fdf29d26d5e9262027b9235de7e96875c2
+
+COCOAPODS: 1.10.2
