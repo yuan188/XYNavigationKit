@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.summary          = 'UIViewController 可独立设置 XYNavigationBar 相关属性'
 
   s.description      = <<-DESC
-  UIViewController 可独立设置 XYNavigationBar 相关属性.
+  UIViewController 可独立设置 XYNavigationBar 相关属性(背景颜色、阴影、tinitColor、是否支持手势等).
                        DESC
 
   s.homepage         = 'https://github.com/yuan188/XYNavigationBar'
