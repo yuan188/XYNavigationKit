@@ -7,11 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-<<<<<<< HEAD:XYNavigationController.podspec
-  s.name             = 'XYNavigationController'
-=======
   s.name             = 'XYNavigationKit'
->>>>>>> d4c1a63 (rename to XYNavigationKit):XYNavigationKit.podspec
   s.version          = '1.0.0'
   s.summary          = 'UIViewController 可独立设置 XYNavigationBar 相关属性'
 
@@ -19,16 +15,6 @@ Pod::Spec.new do |s|
   UIViewController 可独立设置 XYNavigationBar 相关属性(背景颜色、阴影、tinitColor、是否支持手势等)，之间并且可优雅切换.
                        DESC
 
-<<<<<<< HEAD:XYNavigationController.podspec
-  s.homepage         = 'https://github.com/yuan188/XYNavigationController'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'yuan188' => 'yuan188' }
-  s.source           = { :git => 'https://github.com/yuan188/XYNavigationController.git', :tag => s.version.to_s }
-
-  s.ios.deployment_target = '9.0'
-
-  s.source_files = 'XYNavigationController/Classes/**/*'
-=======
   s.homepage         = 'https://github.com/yuan188/XYNavigationKit'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yuan188' => 'yuan188' }
@@ -37,6 +23,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'XYNavigationKit/Classes/**/*'
->>>>>>> d4c1a63 (rename to XYNavigationKit):XYNavigationKit.podspec
   s.swift_version = '5.0'
 end

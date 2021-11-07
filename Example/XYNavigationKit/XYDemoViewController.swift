@@ -1,13 +1,13 @@
 //
 //  XYDemoViewController.swift
-//  XYNavigationBar_Example
+//  XYNavigationKit_Example
 //
 //  Created by yuan188 on 2021/10/22.
 //  Copyright © 2021 yuan188. All rights reserved.
 //
 
 import UIKit
-import XYNavigationController
+import XYNavigationKit
 
 class XYDemoViewController: UITableViewController {
     private var isDebugCurrentVC: Bool

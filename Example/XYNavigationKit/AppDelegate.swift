@@ -1,13 +1,13 @@
 //
 //  AppDelegate.swift
-//  XYNavigationBar
+//  XYNavigationKit
 //
 //  Created by yuan188 on 10/21/2021.
 //  Copyright (c) 2021 yuan188. All rights reserved.
 //
 
 import UIKit
-import XYNavigationController
+import XYNavigationKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

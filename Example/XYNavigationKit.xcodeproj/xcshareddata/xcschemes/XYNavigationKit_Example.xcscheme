@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-               BuildableName = "XYNavigationController_Example.app"
-               BlueprintName = "XYNavigationController_Example"
-               ReferencedContainer = "container:XYNavigationController.xcodeproj">
+               BuildableName = "XYNavigationKit_Example.app"
+               BlueprintName = "XYNavigationKit_Example"
+               ReferencedContainer = "container:XYNavigationKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "XYNavigationController_Example.app"
-            BlueprintName = "XYNavigationController_Example"
-            ReferencedContainer = "container:XYNavigationController.xcodeproj">
+            BuildableName = "XYNavigationKit_Example.app"
+            BlueprintName = "XYNavigationKit_Example"
+            ReferencedContainer = "container:XYNavigationKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "XYNavigationController_Example.app"
-            BlueprintName = "XYNavigationController_Example"
-            ReferencedContainer = "container:XYNavigationController.xcodeproj">
+            BuildableName = "XYNavigationKit_Example.app"
+            BlueprintName = "XYNavigationKit_Example"
+            ReferencedContainer = "container:XYNavigationKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

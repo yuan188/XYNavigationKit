@@ -1,16 +1,16 @@
 PODS:
-  - XYNavigationController (1.0.0)
+  - XYNavigationKit (1.0.0)
 
 DEPENDENCIES:
-  - XYNavigationController (from `../`)
+  - XYNavigationKit (from `../`)
 
 EXTERNAL SOURCES:
-  XYNavigationController:
+  XYNavigationKit:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XYNavigationController: 56aa692ff68981654627df5097ddb55d06befba5
+  XYNavigationKit: aee616f4c24f2121e0fb06c03ae0c9f539db1d66
 
-PODFILE CHECKSUM: c51635d3331dfc846cfbcc3d173b660e2924e268
+PODFILE CHECKSUM: 052540ee9c4b50090e680875a74d5d54e5afafad
 
 COCOAPODS: 1.10.2
