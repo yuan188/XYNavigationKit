@@ -1,16 +1,16 @@
 PODS:
-  - XYNavigationBar (0.1.0)
+  - XYNavigationController (1.0.0)
 
 DEPENDENCIES:
-  - XYNavigationBar (from `../`)
+  - XYNavigationController (from `../`)
 
 EXTERNAL SOURCES:
-  XYNavigationBar:
+  XYNavigationController:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XYNavigationBar: a02959f855776b6c4b479feae018b9865ec7ed46
+  XYNavigationController: 56aa692ff68981654627df5097ddb55d06befba5
 
-PODFILE CHECKSUM: 8654e1fdf29d26d5e9262027b9235de7e96875c2
+PODFILE CHECKSUM: c51635d3331dfc846cfbcc3d173b660e2924e268
 
 COCOAPODS: 1.10.2

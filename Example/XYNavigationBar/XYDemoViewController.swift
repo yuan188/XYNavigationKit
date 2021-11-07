@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import XYNavigationBar
+import XYNavigationController
 
 class XYDemoViewController: UITableViewController {
     private var isDebugCurrentVC: Bool

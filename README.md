@@ -1,4 +1,4 @@
-# XYNavigationBar
+# XYNavigationController
 
 [![CI Status](https://img.shields.io/travis/yuan188/XYNavigationBar.svg?style=flat)](https://travis-ci.org/yuan188/XYNavigationBar)
 [![Version](https://img.shields.io/cocoapods/v/XYNavigationBar.svg?style=flat)](https://cocoapods.org/pods/XYNavigationBar)
