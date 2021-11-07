@@ -1,9 +1,12 @@
-# XYNavigationController
+# XYNavigationKit
 
-[![CI Status](https://img.shields.io/travis/yuan188/XYNavigationBar.svg?style=flat)](https://travis-ci.org/yuan188/XYNavigationBar)
-[![Version](https://img.shields.io/cocoapods/v/XYNavigationBar.svg?style=flat)](https://cocoapods.org/pods/XYNavigationBar)
-[![License](https://img.shields.io/cocoapods/l/XYNavigationBar.svg?style=flat)](https://cocoapods.org/pods/XYNavigationBar)
-[![Platform](https://img.shields.io/cocoapods/p/XYNavigationBar.svg?style=flat)](https://cocoapods.org/pods/XYNavigationBar)
+[![CI Status](https://img.shields.io/travis/yuan188/XYNavigationKit.svg?style=flat)](https://travis-ci.org/yuan188/XYNavigationKit)
+[![Version](https://img.shields.io/cocoapods/v/XYNavigationKit.svg?style=flat)](https://cocoapods.org/pods/XYNavigationKit)
+[![License](https://img.shields.io/cocoapods/l/XYNavigationKit.svg?style=flat)](https://cocoapods.org/pods/XYNavigationKit)
+[![Platform](https://img.shields.io/cocoapods/p/XYNavigationKit.svg?style=flat)](https://cocoapods.org/pods/XYNavigationKit)
+
+
+![效果图](./Images/preview.gif)
 
 ## 功能介绍
 

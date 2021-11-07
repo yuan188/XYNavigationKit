@@ -11,8 +11,8 @@
         <!--Navigation Controller-->
         <scene sceneID="JPo-eC-S5L">
             <objects>
-                <navigationController id="krt-m8-J6i" customClass="XYNavigationController" customModule="XYNavigationBar" sceneMemberID="viewController">
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="la8-qv-3hh" customClass="XYNavigationBar" customModule="XYNavigationBar">
+                <navigationController id="krt-m8-J6i" customClass="XYNavigationController" customModule="XYNavigationKit" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="la8-qv-3hh" customClass="XYNavigationBar" customModule="XYNavigationKit">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
@@ -27,7 +27,7 @@
         <!--Demo View Controller-->
         <scene sceneID="GCk-Qe-vJE">
             <objects>
-                <tableViewController id="HJv-OW-5G9" customClass="XYDemoViewController" customModule="XYNavigationController_Example" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="HJv-OW-5G9" customClass="XYDemoViewController" customModule="XYNavigationKit_Example" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="grouped" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="18" estimatedSectionHeaderHeight="-1" sectionFooterHeight="18" estimatedSectionFooterHeight="-1" id="I0S-9i-D5E">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
